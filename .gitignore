@@ -1,0 +1,7 @@
+gpt2/
+user_interface/gpt2/
+user_interface/.chainlit/
+model.pth
+.chainlit/
+.ipynb_checkpoints/
+user_interface/.ipynb_checkpoints/

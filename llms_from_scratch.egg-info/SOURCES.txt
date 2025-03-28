@@ -1,0 +1,6 @@
+pyproject.toml
+llms_from_scratch.egg-info/PKG-INFO
+llms_from_scratch.egg-info/SOURCES.txt
+llms_from_scratch.egg-info/dependency_links.txt
+llms_from_scratch.egg-info/requires.txt
+llms_from_scratch.egg-info/top_level.txt

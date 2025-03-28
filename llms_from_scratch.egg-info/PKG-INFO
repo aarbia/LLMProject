@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: llms-from-scratch
+Version: 0.1.0
+Summary: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: torch>=2.3.0
+Requires-Dist: jupyterlab>=4.0
+Requires-Dist: tiktoken>=0.5.1
+Requires-Dist: matplotlib>=3.7.1
+Requires-Dist: tensorflow>=2.18.0
+Requires-Dist: tqdm>=4.66.1
+Requires-Dist: numpy<2.1,>=1.26
+Requires-Dist: pandas>=2.2.1
+Requires-Dist: pip>=25.0.1
